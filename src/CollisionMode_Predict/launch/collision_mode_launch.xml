@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- Launch node from package_one -->
+  <node pkg="collision_mode" type="collision_mode" name="dsm" output="screen">
+    <!-- Add parameters here if needed -->
+    <!-- <param name="param_name" value="param_value"/> -->
+  </node>
+
+  <!-- Launch node from package_two -->
+  <node pkg="collision_mode_predict" type="collision_mode_predict" cwd="node" name="prediction" output="screen">
+    <!-- Add parameters here if needed -->
+    <!-- <param name="param_name" value="param_value"/> -->
+  </node>
+</launch>

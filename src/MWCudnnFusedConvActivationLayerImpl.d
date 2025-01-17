@@ -1,2 +1,0 @@
-MWCudnnFusedConvActivationLayerImpl.o: \
- /tmp/tmpxft_0000012e_00000000-5_MWCudnnFusedConvActivationLayerImpl.cudafe1.cpp

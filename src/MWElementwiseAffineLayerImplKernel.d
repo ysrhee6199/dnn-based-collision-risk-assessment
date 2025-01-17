@@ -1,2 +1,0 @@
-MWElementwiseAffineLayerImplKernel.o: \
- /tmp/tmpxft_00000186_00000000-5_MWElementwiseAffineLayerImplKernel.cudafe1.cpp

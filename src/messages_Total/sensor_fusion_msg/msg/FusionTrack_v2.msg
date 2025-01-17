@@ -1,0 +1,61 @@
+#state : 27(ver.)
+Header header
+float64 Measure_Rel_Pos_X
+float64 Measure_Rel_Pos_Y 
+float64 Measure_Rel_Vel_X
+float64 Measure_Rel_Vel_Y
+float64 Measure_Abs_Vel_X
+float64 Measure_Abs_Vel_Y
+float64 Measure_Abs_Vel
+float64 Measure_Rel_Acc_X
+float64 Measure_Rel_Acc_Y
+float64 Measure_Width
+float64 Measure_Length
+float64 Measure_Heading_Angle
+float64 Association_Fused_FVT_ID
+float64 Association_Fused_LDT_ID
+float64 Association_Fused_FRT_ID
+float64 Association_Asso_Hist_FVT_ID
+float64 Association_Asso_Hist_LDT_ID
+float64 Association_Asso_Hist_FRT_ID
+float64 Association_Asso_Creation_Flag
+float64 Association_Asso_Association_Flag
+float64 Motion_Attribute_Abs_Vel
+float64 Motion_Attribute_Abs_Motion
+float64 Motion_Attribute_Shape
+float64 Tracking_ID
+float64 Tracking_Rel_Pos_X
+float64 Tracking_Rel_Pos_Y
+float64 Tracking_Rel_Vel_X
+float64 Tracking_Rel_Vel_Y 
+float64 Tracking_Rel_Acc_X
+float64 Tracking_Rel_Acc_Y
+float64 Tracking_Updated_Age
+float64 Tracking_Coasted_Age
+float64 Tracking_Life_Time
+float64 Tracking_Rel_Pos_Normal
+float64 Tracking_Rel_Vel_Tangential
+float64 Tracking_Rel_Vel_Normal
+float64 Tracking_Abs_Vel_X
+float64 Tracking_Abs_Vel_Y
+float64 Tracking_Moving_Direction
+float64 Tracking_Heading_Angle
+float64 Tracking_Range
+float64 Tracking_Angle
+float64 Tracking_Threat_P_Long
+float64 Tracking_Threat_TTC
+float64 Tracking_Threat_D_BR
+float64 Tracking_Threat_D_W
+float64 Tracking_Threat_X_P
+float64 Tracking_Threat_I_Long
+float64 Tracking_Threat_DLC
+float64 Tracking_Threat_TLC
+float64 Tracking_Threat_I_LAT
+float64 Tracking_Threat_RSS_X
+float64 Tracking_Threat_RSS_Y
+float64 Tracking_Threat_FCW_HONDA
+float64 Tracking_Threat_CP
+
+
+
+

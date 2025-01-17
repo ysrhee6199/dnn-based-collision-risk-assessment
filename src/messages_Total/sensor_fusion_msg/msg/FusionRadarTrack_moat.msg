@@ -1,0 +1,28 @@
+#state : 27(ver.)
+Header header
+float64 Measure_Angle
+float64 Measure_Range 
+float64 Measure_Range_Acc
+float64 Measure_Range_Rate
+float64 Measure_Track_Status
+float64 Measure_Width
+float64 Prprocessing_Angle
+float64 Prprocessing_Rel_Pos_X
+float64 Prprocessing_Rel_Pos_Y
+float64 Prprocessing_Rel_Vel_X
+float64 Prprocessing_Rel_Vel_Y
+float64 Prprocessing_Rel_Acc_X
+float64 Prprocessing_Rel_Acc_Y
+float64 Prprocessing_Creation_Flag
+float64 Prprocessing_Association_Flag
+float64 Motion_Attribute_Abs_Vel
+float64 Motion_Attribute_Abs_Vel_X
+float64 Motion_Attribute_Abs_Vel_Y
+float64 Motion_Attribute_Motion
+float64 Motion_Attribute_Rel_Vel_Tangential
+float64 Motion_Attribute_Rel_Vel_Normal
+float64 Motion_Attribute_Direction
+
+
+
+

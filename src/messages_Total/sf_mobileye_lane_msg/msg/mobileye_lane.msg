@@ -1,0 +1,9 @@
+Header header
+float64 left_LaneMarkModelA_C2_Lh_ME
+float64 left_LaneMarkPosition_C0_Lh_ME
+float64 left_LaneMarkModelDerivA_C3_Lh_ME
+float64 left_LaneMarkHeadingAngle_C1_Lh_ME
+float64 right_LaneMarkModelA_C2_Rh_ME
+float64 right_LaneMarkPosition_C0_Rh_ME
+float64 right_LaneMarkModelDerivA_C3_Rh_ME
+float64 right_LaneMarkHeadingAngle_C1_Rh_ME

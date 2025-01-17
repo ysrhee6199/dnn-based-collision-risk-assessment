@@ -1,0 +1,13 @@
+Collision Mode 11
+Collision Mode 12
+Collision Mode 13
+Collision Mode 21
+Collision Mode 23
+Collision Mode 31
+Collision Mode 33
+Collision Mode 41
+Collision Mode 43
+Collision Mode 51
+Collision Mode 52
+Collision Mode 53
+Not Crash
